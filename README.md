@@ -8,7 +8,11 @@
 </p>
 
 <p align="center">
-  🌦️ <b>A Modern Weather Intelligence Dashboard for all 22 Districts of Haryana</b>
+  <b>🌦️ A Cinematic Weather Intelligence Platform for all 22 Districts of Haryana</b>
+</p>
+
+<p align="center">
+  Real-Time Weather • Forecasts • AQI • Analytics • Smart Insights • Dynamic Themes
 </p>
 
 ---
@@ -16,32 +20,38 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://SakshamSharma3006-Learner.github.io/Haryana-Weather-Dashboard/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Live Demo">
-  </a>
-  &nbsp;
-  <a href="YOUR-GITHUB-REPO-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/🐙%20GITHUB-View%20Source-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/Haryana-Weather-System.git" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Live Demo">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR-GITHUB-REPO-LINK" target="_blank">
+<img src="https://img.shields.io/badge/🐙%20GITHUB-View%20Source-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
 </p>
 
 <p align="center">
-  🚀 <b>Experience the Haryana Weather Intelligence Dashboard Live</b>
+🚀 <b>Explore Haryana's Weather in Real Time</b>
 </p>
 
 ---
 
 ## 📌 About The Project
 
-**Haryana Weather Intelligence Dashboard** is a modern and responsive weather analytics platform designed to provide detailed weather information for all **22 districts of Haryana**.
+**Haryana Weather Intelligence Dashboard** is a modern, responsive and cinematic weather analytics platform designed specifically for all **22 districts of Haryana**.
 
-The project combines real-time weather data, forecasts, air-quality monitoring, interactive charts, district comparison, smart alerts and multiple dynamic themes into a single powerful dashboard.
+Instead of functioning as a basic weather application, the project combines real-time weather information, hourly forecasting, 7-day forecasts, air-quality monitoring, interactive charts, district comparison, location detection, favorites, weather alerts and smart insights into a single intelligent dashboard.
+
+The interface is designed to make complex weather information **visual, interactive and easy to understand**.
 
 ---
 
 ## ✨ Features
 
-- 🏙️ All **22 Haryana Districts**
+- 🏙️ All 22 Haryana Districts
 - 🌡️ Real-Time Weather Data
 - ⏱️ Hourly Weather Forecast
 - 📅 7-Day Forecast
@@ -49,23 +59,22 @@ The project combines real-time weather data, forecasts, air-quality monitoring, 
 - 💧 Precipitation Information
 - 💨 Wind Speed
 - 👁️ Visibility
+- 📊 Atmospheric Pressure
 - ☀️ UV Index
 - 🌅 Sunrise & Sunset
 - 🌫️ Air Quality Index
-- 🧪 PM2.5 Monitoring
-- 🧪 PM10 Monitoring
-- 🧪 O₃ Monitoring
 - 📊 Interactive Weather Charts
 - ⚖️ District Comparison
 - 🔎 District Search
-- 📍 Current Location Detection
+- 📍 Location Detection
 - ⭐ Favorite Districts
-- 🚨 Weather Alerts
+- 🚨 Smart Weather Alerts
 - 🧠 Smart Weather Insights
 - 📄 Weather Report Export
 - 🔄 Automatic Data Refresh
 - 🕒 Local Time Display
-- 🎨 8 Dynamic Themes
+- 🎨 8 Complete Dynamic Themes
+- 🌌 Cinematic Weather Atmosphere
 - 📱 Fully Responsive Design
 - 💾 LocalStorage Support
 
@@ -73,7 +82,7 @@ The project combines real-time weather data, forecasts, air-quality monitoring, 
 
 ## 🏙️ Districts Covered
 
-The dashboard covers all **22 districts of Haryana**:
+The dashboard supports all **22 districts of Haryana**:
 
 ```text
 Ambala
