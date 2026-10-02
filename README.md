@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<a=" https://sakshamsharma3006-learner.github.io/Haryana-Weather-System/" target="_blank">
+<a href="https://sakshamsharma3006-learner.github.io/Haryana-Weather-System/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Website-2ea44f?style=for-the-badge" alt="Live Demo">
 </a>
 
